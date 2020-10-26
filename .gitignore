@@ -161,6 +161,7 @@ dmypy.json
 !.vscode/extensions.json
 *.code-workspace
 
+SentimentTweets.csv
 SentimentData.csv
 HousingData.csv
 
